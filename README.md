@@ -18,23 +18,18 @@ I'm a **full-stack engineer** focused on:
 • Clean, reliable engineering  
 
 I build **fast**, **beautiful**, and **efficient** digital experiences.
-
 ---
 
 ## ⚡ Tech Stack
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,go" />
-
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,sass,react,next,tailwind" />
-
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash,figma" />
 
@@ -50,12 +45,6 @@ I build **fast**, **beautiful**, and **efficient** digital experiences.
 
 ## 🔥 Activity Streak
 <img src="https://streak-stats.demolab.com?user=mediapower13&theme=tokyonight&hide_border=true" />
-
----
-
-## 🌐 Connect
-<a href="https://www.linkedin.com/in/m-pious-amazing-web-%F0%9F%92%AF-83881424a"><img height="38" src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://x.com/AmazingCodeweb"><img height="38" src="https://skillicons.dev/icons?i=twitter"/></a>
 
 ---
 
