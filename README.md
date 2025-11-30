@@ -1,35 +1,90 @@
-<h1 align="center" style="color:#00eaff;">⚡ Hi, I'm <strong>Mediapower13</strong></h1>
-<h3 align="center">Full-Stack Developer • Creative Technologist • AI & Automation Engineer</h3>
+<!-- =========================================== -->
+<!-- 🔥 SUPER-PREMIUM GITHUB PROFILE README      -->
+<!-- =========================================== -->
 
+<div align="center">
+
+# ⚡ Hi, I'm **Mediapower13**  
+**Full-Stack Developer • Creative Technologist • AI & Automation Engineer**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=00E8FF&center=true&width=600&lines=Crafting+Scalable+Systems+%26+Beautiful+Interfaces;Building+AI-Powered+Automation+Workflows;Turning+Ideas+Into+Powerful+Digital+Products;Full-Stack+Development+Done+Right" />
+
+---
+
+## 🔥 About Me
+🚀 Full-stack developer passionate about modern web engineering, automation, AI, and beautiful UI.  
+🧠 I love creating **smooth interfaces**, **powerful backend systems**, and **intelligent workflows**.  
+🎯 My purpose is simple: **build clean, fast, scalable, and future-ready digital experiences**.  
+
+---
+
+<br/>
+
+# ⚡ Tech Stack
+
+### 🚀 Languages
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=400&color=00E7FF&center=true&vCenter=true&width=650&lines=Transforming+ideas+into+digital+experiences...;Crafting+clean+%26+scalable+applications...;Engineering+automation+and+AI-powered+tools...;Always+building.+Always+learning.">
+ <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,go" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=html,css,sass,react,next,tailwind" />
+</p>
+
+### 🛠 Backend
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Databases
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### ⚙ Tools & Platforms
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash,figma" />
 </p>
 
 ---
 
-# 🧠 **About Me**
-I am a **full-stack developer** with a deep passion for  
-**modern web technologies, clean UI, backend engineering, AI, and automation**.
+<br/>
 
-I focus on:
-- Building **beautiful user interfaces**
-- Engineering **robust backend systems**
-- Designing **intelligent automation workflows**
-- Creating **professional & scalable web solutions**
+# 📊 GitHub Stats
+<div align="center">
 
-I code to **solve problems**, craft experiences, and shape the future of digital tools.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mediapower13&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mediapower13&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-# ⚡ **Tech Stack**
+# 🔥 Contribution Streaks
+<div align="center">
 
-```bash
-Languages:      Java • JavaScript • TypeScript • Python • C • Go
+<img src="https://streak-stats.demolab.com?user=mediapower13&theme=tokyonight&hide_border=true" />
 
-Frontend:       HTML • CSS • Sass • React • Next.js • TailwindCSS
+</div>
 
-Backend:        Node.js • Express.js • REST API Development
+---
 
-Databases:      MongoDB • MySQL • PostgreSQL
+# 🌐 Connect With Me
+<div align="center">
 
-Tools:          Git • GitHub • VS Code • Linux • Docker • Bash • Figma
+[<img height="40" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/m-pious-amazing-web-%F0%9F%92%AF-83881424a)  
+[<img height="40" src="https://skillicons.dev/icons?i=twitter" />](https://x.com/AmazingCodeweb)
+
+</div>
+
+---
+
+# ✨ Fun Fact
+> 💡 You don't need magic to build amazing things — just clean code, bold ideas, and consistency.
+
+---
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
+</div>
