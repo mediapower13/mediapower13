@@ -12,8 +12,7 @@ I’m a full-stack engineer passionate about building fast, modern, and intellig
 
 ---
 
-## ⚡ Tech Stack  
-*(Animated — clean, unified, compact)*  
+## ⚡ Tech Stack    
 
 <marquee behavior="alternate" scrollamount="4" width="80%">
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,go,html,css,sass,react,next,tailwind,nodejs,express,mongodb,mysql,postgres,git,github,vscode,linux,docker,bash,figma" height="45" />
